@@ -1,9 +1,9 @@
-function MyJob () {
-    return (
-      <>
-      <h1>Esta es la MyJob</h1>
-      </>
-    )
-  }
-  
-  export default MyJob
+function Home () {
+  return (
+    <>
+    <h1>Esta es la Home</h1>
+    </>
+  )
+}
+
+export default Home
